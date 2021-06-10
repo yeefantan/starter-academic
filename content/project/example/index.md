@@ -1,3 +1,4 @@
+---
 title: Explainable Health Prediction from Facial Features using Transfer Learning
 summary: A research project which investigates the applicability of XAI techniques in explanining a decision. Also, transfer learning is applied in training a classification model.
 tags:
