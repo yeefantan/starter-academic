@@ -11,9 +11,6 @@ date: "2020-11-20T00:00:00Z"
 external_link: "https://github.com/yeefantan/Explainable-Health-Prediction-with-Transfer-Learning"
 
 
----
----
-
 title: Explainable Health Prediction from Facial Features using Transfer Learning
 summary: A project investigates the applicability of Explainable AI techniques in explaniang a black-box model's decision. Also, the classification model is trained using transfer learning.
 tags:
