@@ -2,7 +2,7 @@
 
 title: Explainable Health Prediction from Facial Features using Transfer Learning
 summary: A project investigates the applicability of Explainable AI techniques in explaniang a black-box model's decision. Also, the classification model is trained using transfer learning.
-tag:
+tags:
 - Deep Learning
 date: "2020-11-20T00:00:00Z"
 
