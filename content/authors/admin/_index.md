@@ -72,4 +72,4 @@ highlight_name: false
 I am a student at Multimedia University, Malaysia. I am interested in the application of AI towards healthcare transformation and medical imaging. I am actively looking for any possible postgraduate opportunities which lie in my interests in Fall 2022.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
