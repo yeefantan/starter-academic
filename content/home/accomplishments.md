@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://talent.huaweiuniversity.com/portal/courses/HuaweiX+EBG2020CCHW1100087/about
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-06-10"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Huawei
+  organization_url: https://talent.huaweiuniversity.com/portal/courses/HuaweiX+EBG2020CCHW1100087/about
+  title: HCIA-AI
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://thelead.io/data-science-360
   date_end: ""
-  date_start: "2021-01-01"
+  date_start: "2019-01-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  organization: LEAD
+  organization_url: https://thelead.io/data-science-360
+  title: Data Science 360
+  url: https://thelead.io/data-science-360
+- certificate_url: https://www.mmu.edu.my/
+  date_end: "2021-12-01"
+  date_start: "2020-09-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: Multimedia University
+  organization_url: https://www.mmu.edu.my/
+  title: 'Best Student Award in Diploma IT of 2019'
+  url: https://www.mmu.edu.my/
 
 design:
   columns: '2' 
