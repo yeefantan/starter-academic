@@ -25,7 +25,7 @@ experience:
   - title: Undergraduate Research Assistant
     company: Multimedia University
     company_url: 'https://www.mmu.edu.my/'
-    company_logo: a.png
+    company_logo: download
     location: Malaysia
     date_start: '2020-06-01'
     date_end: '2021-08-01'
@@ -40,7 +40,7 @@ experience:
   - title: Peer Tutor
     company: Multimedia University
     company_url: 'https://www.mmu.edu.my/'
-    company_logo: a
+    company_logo: download
     location: Malaysia
     date_start: '2018-11-01'
     date_end: '2019-03-01'
