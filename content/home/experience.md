@@ -25,7 +25,7 @@ experience:
   - title: Undergraduate Research Assistant
     company: Multimedia University
     company_url: 'https://www.mmu.edu.my/'
-    company_logo: a
+    company_logo: a.png
     location: Malaysia
     date_start: '2020-06-01'
     date_end: '2021-08-01'
