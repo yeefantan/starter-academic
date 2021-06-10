@@ -32,7 +32,7 @@ item:
   url: ""
 - date_end: ""
   date_start: "2019-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: 
   organization: LEAD
   organization_url: https://thelead.io/data-science-360
   title: Data Science 360
