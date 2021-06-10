@@ -5,7 +5,7 @@
 
 title: Yee Fan # Website name
 baseurl: 'yeefantan.github.io' # Website URL
-copyright: 'Powered by wowchemy' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
