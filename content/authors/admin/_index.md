@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tan Yee Fan
+title: Yee Fan, Tan
 
 # Is this the primary user of the site?
 superuser: true
