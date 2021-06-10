@@ -3,7 +3,7 @@
 title: Visual Question Answering and Image Captioning
 summary: A visual question answering and image captioning system implementation.
 tags:
-- Other
+- Deep Learning
 date: "2020-11-20T00:00:00Z"
 
 
