@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:yeefantan1999@gmail.com
+  mailto: yeefantan1999@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/TanYeeFan2
