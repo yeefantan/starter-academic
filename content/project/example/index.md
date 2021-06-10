@@ -8,9 +8,6 @@ date: "2020-11-00T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 
 url_code: "https://github.com/yeefantan/Explainable-Health-Prediction-with-Transfer-Learning"
